@@ -1,0 +1,176 @@
+/* 4 */
+/* table {
+    border-collapse: collapse;
+}
+  
+td {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+  
+td.clicked {
+    background-color: lightgrey;
+} */
+
+/* 5 */
+/* #keyboard {
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    gap: 5px;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+}  */
+
+/* 6 */
+/* body {
+    font-family: Arial, sans-serif;
+}
+
+#calendar {
+    text-align: center;
+}
+
+#monthYear {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#calendar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#calendar li {
+    margin: 5px;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.current-day {
+    background-color: rgb(180, 58, 154);
+    font-weight: bold;
+}
+
+#navigation {
+    margin-top: 20px;
+}
+
+#prevMonth, #nextMonth {
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+    color: rgb(25, 128, 53);
+}  */
+
+/* 7 */
+/* body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#tagInput {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#tagDescription {
+    margin-top: 20px;
+    font-size: 18px;
+}  */
+
+/* 8 */
+/* * {
+	box-sizing: border-box;
+}
+
+#parent {
+	margin: 0 auto;
+	width: 600px;
+}
+
+#input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+#table {
+	width: 100%;
+}
+
+#table td {
+	padding: 10px;
+	text-align: center;
+	border: 1px solid black;
+}  */
+
+/* 9 */
+/* body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+  
+h1 {
+    color: #4CAF50;
+}
+  
+input[type="date"] {
+    padding: 8px;
+}
+  
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+  
+button:hover {
+    background-color: #45a049;
+}
+  
+input[type="radio"] {
+    margin: 0 5px;
+} */
+
+/* 10 */
+/* #parent {
+    text-align: center;
+}
+  
+#parent > * {
+    margin-bottom: 10px;
+}
+  
+#timer {
+    font-size: 18px;
+}
+  
+#text {
+    font-size: 17px;
+    font-style: italic;
+}
+  
+button {
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+  
+button:not(.active) {
+    display: none;
+} */
