@@ -52,7 +52,7 @@
 // let timeLeft = 60; 
 
 // const timerDisplay = document.createElement('div');
-// timerDisplay.textContent = Time left: ${timeLeft} seconds;
+// timerDisplay.textContent =  timeLeft;
 // document.body.insertBefore(timerDisplay, gameBoard);
 // // Создаем таблицу 10x10
 // for (let i = 0; i < 10; i++) {
@@ -95,7 +95,7 @@
 
 // function updateTimer() {
 //     timeLeft--;
-//     timerDisplay.textContent = Time left: ${timeLeft} seconds;
+//     timerDisplay.textContent =  timeLeft;
 //     if (timeLeft === 0) {
 //       alert('ты не уложился во время');
       
@@ -108,7 +108,7 @@
 //       setTimeout(updateTimer, 1000); 
 //     }
 // }
-// updateTimer(); 
+// updateTimer();
 
 
 // 5 экранная клавиатура без капса
